@@ -1,8 +1,11 @@
-Here's some stats no-one reads, anyway have fun!
+## Here's some stats no-one reads, anyway have fun! 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=invisible"/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MichalDakowicz" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichalDakowicz&layout=compact&langs_count=8&card_width=320" />
-</a>
+### About Me 
+* 👋  I'm a passionate developer interested in [list your interests here]
+* 🌱  Exploring and learning about [technologies you're excited about]
+* 📫  Best way to reach me: [Add your preferred contact method]
+
+### Connect with Me
+[Insert links to your social profiles, website, etc. if desired]
+
