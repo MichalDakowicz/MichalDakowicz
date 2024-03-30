@@ -21,5 +21,5 @@ WakaTime Stats are since ~1st of March 2024
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=instagram-post-downloader&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/instagram-post-downloader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=gif-to-png-frames&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/gif-to-png-frames)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=youtube-video-downloader&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/youtube-video-downloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=image-stretcher&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/image-stretcher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=readcomiconline-downloader&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/readcomiconline-downloader)
-
