@@ -16,6 +16,7 @@ WakaTime Stats are since ~1st of March 2024
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=Arduino-Syntax-Highlighter&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/Arduino-Syntax-Highlighter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=add-cover-artist-album-to-mp3&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/add-cover-artist-album-to-mp3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=workout-tracker&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/workout-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=lyrics-from-audio&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/lyrics-from-audio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=audio-splitter&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/audio-splitter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=Saveify&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/Saveify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=instagram-post-downloader&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/instagram-post-downloader)
