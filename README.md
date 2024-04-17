@@ -1,6 +1,19 @@
 <h1>Here's some stats no-one reads, anyway have fun!</h1>
 
 <!--START_SECTION:waka-->
+
+```python
+From: 28 February 2024 - To: 15 April 2024
+
+Total Time: 76 hrs 44 mins
+
+Python        53 hrs 13 mins  >>>>>>>>>>>>>>>>>--------   69.25 %
+HTML          5 hrs 7 mins    >>-----------------------   06.66 %
+Markdown      5 hrs 6 mins    >>-----------------------   06.64 %
+JSON          3 hrs 29 mins   >------------------------   04.55 %
+Text          3 hrs 21 mins   >------------------------   04.37 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Michu's Stats](https://github-readme-stats.vercel.app/api?username=MichalDakowicz&theme=nord&show_icons=true&hide_border=true&count_private=true&card_width=495px)
