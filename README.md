@@ -22,10 +22,6 @@ Text          3 hrs 21 mins   >------------------------   04.37 %
 
 ![Michu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalDakowicz&theme=nord&show_icons=true&hide_border=true&layout=compact&card_width=495px)
 
-WakaTime Stats are since ~1st of March 2024
-
-![Michu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MichalDakowicz&theme=nord&show_icons=true&hide_border=true&layout=compact)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=Arduino-Syntax-Highlighter&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/Arduino-Syntax-Highlighter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=add-cover-artist-album-to-mp3&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/add-cover-artist-album-to-mp3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichalDakowicz&repo=workout-tracker&theme=nord&hide_border=true)](https://github.com/MichalDakowicz/workout-tracker)
