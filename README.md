@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 February 2024 - To: 21 April 2024
+From: 28 February 2024 - To: 23 April 2024
 
-Total Time: 85 hrs 40 mins
+Total Time: 88 hrs 35 mins
 
-Python        59 hrs 37 mins  >>>>>>>>>>>>>>>>>--------   69.45 %
-Markdown      6 hrs 54 mins   >>-----------------------   08.05 %
-HTML          5 hrs 18 mins   >>-----------------------   06.19 %
-JSON          3 hrs 32 mins   >------------------------   04.12 %
-Text          3 hrs 26 mins   >------------------------   04.01 %
+Python        62 hrs 24 mins  >>>>>>>>>>>>>>>>>>-------   70.32 %
+Markdown      6 hrs 54 mins   >>-----------------------   07.79 %
+HTML          5 hrs 19 mins   >>-----------------------   06.00 %
+JSON          3 hrs 34 mins   >------------------------   04.03 %
+Text          3 hrs 29 mins   >------------------------   03.93 %
 ```
 
 <!--END_SECTION:waka-->
