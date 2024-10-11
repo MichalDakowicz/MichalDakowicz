@@ -27,4 +27,4 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
-          IGNORED_LANGUAGES: Text JSON YAML TeX  md # optional
+          IGNORED_LANGUAGES: Text JSON YAML TeX md Markdown # optional
