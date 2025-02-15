@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 February 2024 - To: 12 February 2025
+From: 28 February 2024 - To: 13 February 2025
 
-Total Time: 258 hrs 15 mins
+Total Time: 261 hrs 15 mins
 
-Python            115 hrs 3 mins  >>>>>>>>>>>--------------   44.31 %
-HTML              30 hrs 22 mins  >>>----------------------   11.70 %
-JavaScript        28 hrs 47 mins  >>>----------------------   11.09 %
-CSS               21 hrs 43 mins  >>-----------------------   08.37 %
+Python            115 hrs 25 mins >>>>>>>>>>>--------------   43.95 %
+HTML              30 hrs 53 mins  >>>----------------------   11.76 %
+JavaScript        29 hrs 46 mins  >>>----------------------   11.34 %
+CSS               22 hrs 18 mins  >>-----------------------   08.49 %
 ```
 
 <!--END_SECTION:waka-->
